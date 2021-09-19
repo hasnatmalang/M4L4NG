@@ -121,8 +121,8 @@ jalan("   \033[1;93m Welcome to Termux Master ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mSohailMalang\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "sohail"
-CorrectPassword = "malang"
+CorrectUsername = "Sohail"
+CorrectPassword = "Malang"
 
 
 loop = 'true'
